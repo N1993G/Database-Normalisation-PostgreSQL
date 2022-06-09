@@ -1,2 +1,4 @@
 # Database-Normalisation-PostgreSQL
-How do I make sure my DB stays fast?
+Database normalisation at Fred's Furniture
+- CREATE A NORMALISED VERSION OF THE DATABASE
+- QUERY DATABASES TO FIND IF IT IS EASIER OR MORE DIFFICULT TO DO WITH NORMALISED DATABASE TABLES
